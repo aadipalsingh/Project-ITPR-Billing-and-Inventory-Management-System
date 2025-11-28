@@ -1,4 +1,4 @@
-# Project-ITPR-Billing-and-Inventory-Management-System<br>
+
 # Billing & Inventory Management System<br>
 ![Java](https://img.shields.io/badge/Java-JDK_1.8%2B-orange?style=flat&logo=java)
 ![Maven](https://img.shields.io/badge/Build-Maven-C71A36?style=flat&logo=apache-maven)
