@@ -11,10 +11,29 @@ The **Smart Shop Management System** is a command-line application that simulate
 
 Unlike simple billing apps, this project uses a **Normalized 8-Table Database** to handle complex relationships between products, brands, tax slabs, and sales history. It features a **Lazy Initialization** mechanism that automatically sets up the database structure upon the first run, making it a "Plug-and-Play" solution.
 
-#Guided By<br>
+## 🛠 Tech Stack
+* **Language:** Java SE (JDK 1.8+)
+* **Build Tool:** Apache Maven
+* **Database:** MySQL Server 8.0
+* **Connectivity:** JDBC (Java Database Connectivity)
+* **IDE:** Eclipse Enterprise Edition
+
+## ✨ Key Features
+
+### 🔐 Admin Panel (Back Office)
+* **Inventory Control:** Add, Update, and Delete products.
+* **Master Data:** Configure Categories, Brands, and Tax Slabs dynamically.
+* **Sales Insights:** View detailed sales history and total revenue.
+
+### 🛍 Customer Panel (Front Office)
+* **Secure Access:** User Registration and Login authentication.
+* **Smart Cart:** Browse products and manage a temporary shopping cart.
+* **Billing:** Automatic tax calculation and invoice generation.
+
+# Guided By<br>
 Anuj Kumar<br>
 
-#Created By:-<br>
+# Created By:-<br>
 <br>
 Name : Aditya Pal <br>
 AFID: AF04971732<br>
