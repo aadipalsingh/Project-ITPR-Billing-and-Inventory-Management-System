@@ -45,10 +45,10 @@ Unlike simple billing apps, this project uses a **Normalized 8-Table Database** 
 
 ---
 
-# Guided By<br>
+## Guided By<br>
 Anuj Kumar<br>
 
-# Created By:-<br>
+## Created By:-<br>
 <br>
 Name : Aditya Pal <br>
 AFID: AF04971732<br>
@@ -60,3 +60,19 @@ Name: Pranjal Khokhar<br>
 AFID: AF04991772<br>
 Batch Code: ANP-D2405<br>
 Course Code : ITPR<br>
+
+## 📸 Screenshots
+### Main Menu
+![main Menu Screenshot](demo_screenshots/main-menu.png)
+
+### Admin Dashboard
+![Admin Menu Screenshot](demo_screenshots/admin-login-and-dashboard.png)
+
+### Customer Panel
+![Customer Menu Screenshot](demo_screenshots/customer-panel.png)
+
+### Customer Dashboard
+![Customer Menu Screenshot](demo_screenshots/customer-dashboard.png)
+
+
+
