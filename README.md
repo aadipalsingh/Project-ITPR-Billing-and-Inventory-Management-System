@@ -63,16 +63,16 @@ Course Code : ITPR<br>
 
 ## 📸 Screenshots
 ### Main Menu
-![main Menu Screenshot](demo_screenshots/main-menu.png)
+![main Menu Screenshot](demo_screenshot/main-menu.png)
 
 ### Admin Dashboard
-![Admin Menu Screenshot](demo_screenshots/admin-login-and-dashboard.png)
+![Admin Menu Screenshot](demo_screenshot/admin-login-and-dashboard.png)
 
 ### Customer Panel
-![Customer Menu Screenshot](demo_screenshots/customer-panel.png)
+![Customer Menu Screenshot](demo_screenshot/customer-panel.png)
 
 ### Customer Dashboard
-![Customer Menu Screenshot](demo_screenshots/customer-dashboard.png)
+![Customer Menu Screenshot](demo_screenshot/customer-dashboard.png)
 
 
 
