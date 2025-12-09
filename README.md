@@ -16,6 +16,7 @@ Unlike simple billing apps, this project uses a **Normalized 8-Table Database** 
 * **Build Tool:** Apache Maven
 * **Database:** MySQL Server 8.0
 * **Connectivity:** JDBC (Java Database Connectivity)
+* **Concepts:** OOPs (Encapsulation, Polymorphism), Collection Framework, File I/O.
 * **IDE:** Eclipse Enterprise Edition
 
 ## ✨ Key Features
